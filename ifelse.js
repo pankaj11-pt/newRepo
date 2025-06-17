@@ -45,6 +45,7 @@ if ("aeiou".includes(char) || "AEIOU".includes(char)) {
 let num = 1
 if (num > 0) {
     console.log("it's positive number")
+    
 }
 else if (num < 0) {
     console.log("it's negative number");
